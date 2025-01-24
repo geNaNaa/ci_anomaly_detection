@@ -1,0 +1,163 @@
+Cause,Estimated Effect (Linear Regression),Estimated Effect (GLM),Sensitivity (Bootstrap Refuter),Sensitivity (Data Subset Refuter)
+unavail_second,0.0006923352668385396,0.0006923352668385396,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.0006923352668385396
+New effect:0.0006935513056760434
+p value:0.94
+","Refute: Use a subset of data
+Estimated effect:0.0006923352668385396
+New effect:0.000691970047599435
+p value:0.96
+"
+error_second,0.0003433700507575743,0.0003433700507575743,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.0003433700507575743
+New effect:0.00037328367623299275
+p value:1.0
+","Refute: Use a subset of data
+Estimated effect:0.0003433700507575743
+New effect:0.00034970183899196814
+p value:0.9
+"
+bbe,4.706546410282453e-05,4.706546410282453e-05,"Refute: Bootstrap Sample Dataset
+Estimated effect:4.706546410282453e-05
+New effect:5.115008700370127e-05
+p value:0.96
+","Refute: Use a subset of data
+Estimated effect:4.706546410282453e-05
+New effect:5.041609158292937e-05
+p value:0.86
+"
+temp_min_day1,0.02633399017675625,0.02633399017675625,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.02633399017675625
+New effect:0.025194293960336928
+p value:0.7
+","Refute: Use a subset of data
+Estimated effect:0.02633399017675625
+New effect:0.026340208182709098
+p value:0.98
+"
+humidity_min_day1,0.0009948397753364313,0.0009948397753364868,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.0009948397753364868
+New effect:0.0012948001879181784
+p value:0.56
+","Refute: Use a subset of data
+Estimated effect:0.0009948397753364868
+New effect:0.0009688921683994148
+p value:0.94
+"
+temp_max_day5,-0.0009390294397693677,-0.0009390294397694232,"Refute: Bootstrap Sample Dataset
+Estimated effect:-0.0009390294397694232
+New effect:-0.0006511444143762662
+p value:0.78
+","Refute: Use a subset of data
+Estimated effect:-0.0009390294397694232
+New effect:-0.000928113119963791
+p value:0.96
+"
+temp_mean_3,0.00019245473766665855,0.00019245473766665855,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.00019245473766665855
+New effect:0.0001800484392139551
+p value:0.98
+","Refute: Use a subset of data
+Estimated effect:0.00019245473766665855
+New effect:0.00016877638062467616
+p value:0.88
+"
+temp_min_day2,-0.011381704020478334,-0.011381704020478223,"Refute: Bootstrap Sample Dataset
+Estimated effect:-0.011381704020478223
+New effect:-0.007975691440125566
+p value:0.17999999999999994
+","Refute: Use a subset of data
+Estimated effect:-0.011381704020478223
+New effect:-0.011281790489752641
+p value:0.96
+"
+humidity_max_day1,0.0009681545796482727,0.0009681545796482727,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.0009681545796482727
+New effect:0.0010982868944994237
+p value:0.76
+","Refute: Use a subset of data
+Estimated effect:0.0009681545796482727
+New effect:0.0010039765048838534
+p value:0.98
+"
+wind_dir_day2,0.00044855464439907955,0.00044855464439907955,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.00044855464439907955
+New effect:0.00045514124757694673
+p value:0.98
+","Refute: Use a subset of data
+Estimated effect:0.00044855464439907955
+New effect:0.0004480940444147768
+p value:1.0
+"
+humidity_min_day2,0.001343672084753167,0.001343672084753167,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.001343672084753167
+New effect:0.001189058128148634
+p value:0.86
+","Refute: Use a subset of data
+Estimated effect:0.001343672084753167
+New effect:0.0013535393599452383
+p value:0.98
+"
+capacity,-0.0005285064625556446,-0.0005285064625555336,"Refute: Bootstrap Sample Dataset
+Estimated effect:-0.0005285064625555336
+New effect:-0.0005277545881159057
+p value:0.8600000000000001
+","Refute: Use a subset of data
+Estimated effect:-0.0005285064625555336
+New effect:-0.0005296251197978119
+p value:1.0
+"
+wind_speed_day5,-0.0005366835934442205,-0.0005366835934442205,"Refute: Bootstrap Sample Dataset
+Estimated effect:-0.0005366835934442205
+New effect:-0.0004970413765110327
+p value:0.96
+","Refute: Use a subset of data
+Estimated effect:-0.0005366835934442205
+New effect:-0.0005737566417394696
+p value:0.88
+"
+wind_dir_day4,0.00035257306362418417,0.00035257306362418417,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.00035257306362418417
+New effect:0.00033846804411144293
+p value:0.78
+","Refute: Use a subset of data
+Estimated effect:0.00035257306362418417
+New effect:0.0003511747848398128
+p value:0.8799999999999999
+"
+wind_dir_day1,0.000371482300065229,0.000371482300065229,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.000371482300065229
+New effect:0.00039221884587419486
+p value:0.74
+","Refute: Use a subset of data
+Estimated effect:0.000371482300065229
+New effect:0.0003730219166455251
+p value:0.98
+"
+temp_max_day1,0.002754724201487757,0.0027547242014877016,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.0027547242014877016
+New effect:0.004583122215222916
+p value:0.48
+","Refute: Use a subset of data
+Estimated effect:0.0027547242014877016
+New effect:0.0025956116390823667
+p value:0.98
+"
+rxlevmax,-0.00890322408957428,-0.00890322408957428,"Refute: Bootstrap Sample Dataset
+Estimated effect:-0.00890322408957428
+New effect:-0.008990050824640293
+p value:0.96
+","Refute: Use a subset of data
+Estimated effect:-0.00890322408957428
+New effect:-0.008946537600564164
+p value:0.92
+"
+temp_max_day2,0.001478095631798182,0.001478095631798182,"Refute: Bootstrap Sample Dataset
+Estimated effect:0.001478095631798182
+New effect:0.00025830927700144085
+p value:0.62
+","Refute: Use a subset of data
+Estimated effect:0.001478095631798182
+New effect:0.0015255824349802163
+p value:0.96
+"
